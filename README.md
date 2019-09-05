@@ -1,4 +1,4 @@
-*** This is the full C# game project namely "Follow the path" ***
+*** This is the full C# game project namely "Follow the path" with voice controlled features ***
 
 You can clone the Repo and import it on Unity 3D as it contains all the files needed.
 
