@@ -1,4 +1,4 @@
-*** This is the full C# game project namely "Follow the path" with voice controlled features ***
+***This is the full C# game project namely "Follow the path" with voice-recognition***
 
 You can clone the Repo and import it on Unity 3D as it contains all the files needed.
 
@@ -12,3 +12,4 @@ You can play the short game by executing the "follow the path final game.Exe" fi
 "follow the path" final game_Data folder and the .exe file together in a folder since the final game_Data folder
 contains all the game data.
 
+ ***Voice commands: Right, left, stop, slow, move forward/back***
